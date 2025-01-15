@@ -131,3 +131,7 @@ a {
 hr {
     border-image: linear-gradient(to bottom right, #118A2A, #2697cc) 1;
 }
+
+li {
+    padding: 5px;
+}
