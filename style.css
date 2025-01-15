@@ -43,6 +43,7 @@ nav {
     padding: 20px;
     border: 3px solid #000;
     border-radius: 5px;
+    box-shadow: 15px 10px #094515;
 }
 
 .about {
